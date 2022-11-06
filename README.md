@@ -1,6 +1,6 @@
 # dataset-Housing
-
-https://drive.google.com/file/d/1vz3_45-d6s2_gncQWXk0ByD_vBIn1R35/view?usp=share_link
+id descargar gdown 
+1vz3_45-d6s2_gncQWXk0ByD_vBIn1R35
 
 imagenes datos en postgres
 ![image](https://user-images.githubusercontent.com/66834393/200181977-f95b0f0a-05a6-4b3d-8065-66992b44b661.png)
