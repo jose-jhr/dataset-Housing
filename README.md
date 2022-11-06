@@ -1,4 +1,12 @@
 # dataset-Housing
+
+imagenes datos en postgres
+![image](https://user-images.githubusercontent.com/66834393/200181977-f95b0f0a-05a6-4b3d-8065-66992b44b661.png)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/66834393/200180124-72ac4ef7-794d-4620-85c1-067150731332.png)
 
 1) para que el proceso sea mas rapido ya que se trata de una maquina virtual, la creación de base de datos se realiza por medio de sql.
