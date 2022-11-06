@@ -1,3 +1,7 @@
+2) punto ingensta en la base de datos evidencia.............................................
+![image](https://user-images.githubusercontent.com/66834393/200188497-849b3aa0-3b4b-4374-a033-563b1e77c9b9.png)
+
+
 1) se procedio a verificar si el modelo se habia cargado y si su subida fue exitosa.
 ![image](https://user-images.githubusercontent.com/66834393/200188079-09e50b03-34dc-4048-9476-ae730b316a78.png)
 
