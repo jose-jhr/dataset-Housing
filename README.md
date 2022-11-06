@@ -2,6 +2,9 @@
 id descargar gdown 
 1vz3_45-d6s2_gncQWXk0ByD_vBIn1R35
 
+test
+[[0.01301, 35.0, 1.52, 0.0, 0.442, 7.241, 49.3, 7.0379, 1.0, 284.0, 15.5, 394.74, 5.49]]
+
 imagenes datos en postgres
 ![image](https://user-images.githubusercontent.com/66834393/200181977-f95b0f0a-05a6-4b3d-8065-66992b44b661.png)
 
