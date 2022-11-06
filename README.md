@@ -6,23 +6,23 @@
 
 CREATE TABLE myhousing (
    ID  INTEGER  NOT NULL PRIMARY KEY 
-  ,CRIM    NUMERIC(7,5) NOT NULL
-  ,ZN      NUMERIC(5,1) NOT NULL
-  ,INDUS   NUMERIC(5,2) NOT NULL
-  ,CHAS    BIT  NOT NULL
-  ,NOX     NUMERIC(6,4) NOT NULL
-  ,RM      NUMERIC(5,3) NOT NULL
-  ,AGE     NUMERIC(5,1) NOT NULL
-  ,DIS     NUMERIC(7,4) NOT NULL
-  ,RAD     INTEGER  NOT NULL
-  ,TAX     NUMERIC(5,1) NOT NULL
-  ,PTRATIO NUMERIC(4,1) NOT NULL
-  ,B       NUMERIC(6,2) NOT NULL
-  ,LSTAT   NUMERIC(5,2) NOT NULL
-  ,MEDV    NUMERIC(4,1) NOT NULL
+  ,CRIM    float
+  ,ZN      float
+  ,INDUS   float
+  ,CHAS    float
+  ,NOX     float
+  ,RM      float
+  ,AGE     float
+  ,DIS     float
+  ,RAD     float
+  ,TAX     float
+  ,PTRATIO float
+  ,B       float
+  ,LSTAT   float
+  ,MEDV    float
 );
 
-2) sql inserción de datos, por cierto en el paso 1 todos son datos float
+2) sql inserción de datos.
 
 
 
